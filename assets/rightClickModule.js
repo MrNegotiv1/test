@@ -24,12 +24,12 @@
         "expiry_date": "2025-05-01"
     },
     {
-        "token": "gf4hi7899",
+        "token": "telegram-@nerest_skripts",
         "active": true,
-        "user": "Никсик",
+        "user": "FREE",
         "devices": 0,
         "max_devices": 1,
-        "expiry_date": "2025-03-15"
+        "expiry_date": "2025-08-15"
     },
     {
         "token": "jkl0122",
