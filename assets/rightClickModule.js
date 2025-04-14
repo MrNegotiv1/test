@@ -6,6 +6,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2025-12-31"
+        "license": "free"
     },
     {
         "token": "1vs1ss1",
@@ -14,6 +15,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2029-01-01"
+        "license": "beta"
     },
     {
         "token": "Zakonf04d01ac",
@@ -22,6 +24,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2025-05-01"
+        "license": "free"
     },
     {
         "token": "telegram-@nerest_skripts",
@@ -30,6 +33,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2025-08-15"
+        "license": "free"
     },
     {
         "token": "jkl0122",
@@ -38,6 +42,7 @@
         "devices": 1,
         "max_devices": 3,
         "expiry_date": "2025-11-11"
+        "license": "free"
     },
     {
         "token": "mno3455",
@@ -46,6 +51,7 @@
         "devices": 1,
         "max_devices": 4,
         "expiry_date": "2025-07-30"
+        "license": "free"
     },
     {
         "token": "pqr6781",
@@ -54,6 +60,7 @@
         "devices": 2,
         "max_devices": 2,
         "expiry_date": "2024-06-01"
+        "license": "free"
     },
     {
         "token": "stu901",
