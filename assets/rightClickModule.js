@@ -12,8 +12,6 @@
         "token": "1vs1ss1",
         "active": true,
         "user": "Неготив",
-        "devices": 0,
-        "max_devices": 1,
         "expiry_date": "2029-01-01",
         "license": "pro"
     },
