@@ -15,7 +15,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2029-01-01"
-        "license": "beta"
+        "license": "pro"
     },
     {
         "token": "Zakonf04d01ac",
@@ -24,7 +24,7 @@
         "devices": 0,
         "max_devices": 1,
         "expiry_date": "2025-05-01"
-        "license": "free"
+        "license": "beta"
     },
     {
         "token": "telegram-@nerest_skripts",
