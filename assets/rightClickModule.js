@@ -14,7 +14,6 @@
         "user": "Неготив",
         "expiry_date": "2029-01-01",
         "license": "pro"
-        "license": "beta"
     },
     {
         "token": "Zakonf04d01ac",
