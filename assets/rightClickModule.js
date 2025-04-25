@@ -25,7 +25,7 @@
         "license": "beta"
     },
     {
-        "token": "ttelegram-@nerest_skripts",
+        "token": "FREE-Telegram-@nerest_skripts",
         "active": true,
         "user": "FREE",
         "devices": 0,
