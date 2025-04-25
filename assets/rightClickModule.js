@@ -16,7 +16,7 @@
         "license": "pro"
     },
     {
-        "token": "Zakonf04d01ac",
+        "token": "Слил Неготивчик",
         "active": true,
         "user": "Закончик",
         "devices": 0,
